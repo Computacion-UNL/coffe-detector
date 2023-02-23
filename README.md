@@ -6,7 +6,7 @@
 - [Autor](#autor)
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Diseño de Prototipo Base](#diseño-de-prototipo-base)
-- [Guía de usuario e instalación](guía-de-usuario-e-instalación)
+- [Guía de usuario e instalación](#guía-de-usuario-e-instalación)
 
 ## Autor:
 El presente Trabajo de Titulación fue desarrollado por:
