@@ -26,6 +26,9 @@ El repositorio se compone de cuatro partes:
 
 Para facilitar el uso del modelo de detección de objetos final, se desarrolló un prototipo de aplicación móvil (app) cuyo fin es posibilitar al usuario su manejo y proveer acceso instantáneo al funcionamiento del modelo **YOLOv4** para identificar la etapa de madurez presente en los frutos del café (Inmaduro, Pinton, Maduro y Sobremaduro).
 
+![colorimetria](https://user-images.githubusercontent.com/58428369/220813171-768ccac7-c503-4147-8be8-e43e425e9e93.png)
+
+
 ## Diseño de Prototipo Base:
 Para el desarrollo del aplicativo móvil, se generó un prototipo de diseño el cual proporciona la estructura preliminar de la misma, este boceto tiene como punto de partida una plantilla de código abierto proporcionada por [TensorFlow](https://www.tensorflow.org/lite/examples/object_detection/overview "TensorFlow").
 ![Diseño](https://user-images.githubusercontent.com/58428369/220799593-a3b7327c-f204-4bf0-ba88-435bb54c9de9.png)
