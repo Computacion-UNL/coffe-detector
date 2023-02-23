@@ -18,10 +18,11 @@ Con la dirección de la:
 ## Descripción y Contexto:
 El presente repositorio contiene el código del proyecto de Titulación denominado **"Determinación de la madurez de frutos del café mediante el reconocimiento de imágenes utilizando un Modelo Basado en Redes Neuronales Convolucionales"** de la Carrera de Ingeniería en Sistemas/Computación de la Universidad Nacional de Loja.
 
-El repositorio se compone de tres partes: 
+El repositorio se compone de cuatro partes: 
 1. Modelos de Visión por Computador.
 2. Aplicación Móvil.
 3. Scripts necesarios para determinar el mejor modelo de detección de objetos.
+4. Repositorio necesario para convertir el modelo Yolov4 a TFLite.
 
 Para facilitar el uso del modelo de detección de objetos final, se desarrolló un prototipo de aplicación móvil (app) cuyo fin es posibilitar al usuario su manejo y proveer acceso instantáneo al funcionamiento del modelo **YOLOv4** para identificar la etapa de madurez presente en los frutos del café (Inmaduro, Pinton, Maduro y Sobremaduro).
 
