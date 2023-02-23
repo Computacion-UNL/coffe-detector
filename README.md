@@ -3,8 +3,9 @@
 
 ------------
 ## Tabla de Contenidos:
+[TOC]
 
-## Autores:
+## Autor:
 El presente Trabajo de Titulación fue desarrollado por:
 - Karla Yacely Jiménez Cueva - karla.y.jimenez@unl.edu.ec
 
